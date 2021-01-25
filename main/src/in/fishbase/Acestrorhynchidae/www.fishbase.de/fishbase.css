@@ -1,0 +1,245 @@
+/*
+ * ADDED FOR FISHBASE SHOP BY STACY ON DEC. 3, 2010
+ */ 
+#guidelinesBody {
+	font-family: Arial;
+	min-width: 780px;
+}
+
+.fbAdExamples {
+	text-align: center;
+	width: 350px;
+}
+
+.fbAdExamplesMain {
+	width: 700px;
+}
+
+.clearBoth {
+	clear: both;
+}
+ 
+.fbAdText {
+	font-size: 13px;
+}
+
+.addBorder {
+	border: 1px solid black;
+}
+
+.floatRight {
+	float: right;
+}
+
+.floatLeft {
+	float: left;
+}
+
+.fbAdPadding {
+	padding-bottom: 40px;
+}
+
+/* tooltip for speciest list added by MOrtiz */
+.tooltip
+{
+  font-style:xx-small;
+  text-decoration:none;
+  position:relative;
+}
+.tooltip span
+{
+  display:none;
+  font-style:xx-small;
+  -moz-border-radius:6px;
+  -webkit-border-radius:6px;
+  border-radius:6px;
+  color:black;
+  background:white;	
+}
+.tooltip span img
+{
+  font-style:xx-small;
+  float:left;
+  margin:0px 8px 8px 0;
+}
+.tooltip:hover span
+{
+  font-size:xx-small;
+  display:block;
+  position:absolute;
+  top:10;
+  left:0;
+  z-index:1000;
+  width:absolute;
+  max-width:1000px;
+  min-height:150px;
+  border:1px solid gray;
+  margin-top:-170px;
+  margin-left:-5px;
+  overflow:hidden;
+  padding:8px;
+}
+
+.tooltip2
+{
+  font-style:xx-small;
+  text-decoration:none;
+  position:relative;
+}
+.tooltip2 span
+{
+  display:none;
+  font-style:xx-small;
+  -moz-border-radius:6px;
+  -webkit-border-radius:6px;
+  border-radius:6px;
+  color:black;
+  background:white;	
+}
+.tooltip2 span img
+{
+  font-style:xx-small;
+  float:left;
+  margin:0px 8px 8px 0;
+}
+.tooltip2:hover span
+{
+  font-size:xx-small;
+  display:block;
+  position:absolute;
+  top:10;
+  left:0;
+  z-index:1000;
+  width:210px;
+  max-width:500px;
+  min-height:50px;
+  border:1px solid gray;
+  margin-top:-90px;
+  margin-left:-65px;
+  overflow:hidden;
+  padding:10px;
+}
+
+
+
+
+
+.body_1 {background-color : white;}
+.body_2 {background-color : white;}
+
+.ptitle  	{font-family :  Arial;	font-weight : bold;	color : #333399;	}
+.ptitle_sub {font-family :  Arial;	font-weight : bold;	color : #333399; font-size : 14px;	}
+
+.ptitle_bg 	{font-family :  Arial;	font-weight : bold;	color : #333399;	background-color : aqua;}
+
+.f_title 	{font-family :  Arial;	font-weight : bold;	}
+.f_lhead  	{font-family :  Arial;	font-size : 13px;	}
+
+.stat 	{font-family :  Arial;	font-weight : bold;	font-size : 16px; color: red; }
+.CoL	{font-family:  Arial; font-size: 14px; color: #333399; background-color : aqua;}
+
+.plinks   {font-family: Arial;  font-size: 10px; color: black; }
+.plinks2  {font-family: Arial;  font-size: 11px; color: black; }
+.plinks3  {font-family: Arial;  font-size: 12px; color: black; }
+
+.warning1   {font-family: Arial;  font-size: 14px; color: red; }
+.warning2   {font-family: Arial;  font-size: 11px; color: red; }
+
+.t_header1 	{font-family: Arial; font-size: 12px;   font-weight: bold; 		background-color : #99ffff;}
+
+
+
+.t_header2 			{font-family: Arial; font-size: 11px;   font-weight: normal; 	background-color : aqua;}
+.t_header2_no_bg 	{font-family: Arial; font-size: 11px;   font-weight: normal; 	}
+
+.t_value1   {font-family:  Arial; font-size: 12px; color: #000000; }
+.t_value1B  {font-family:  Arial; font-size: 12px; color: black; font-weight: bold; }
+.t_value2  {font-family:  Arial; font-size: 11px; color: #000000; }
+.t_value3   {font-family:  Arial; font-size: 12px; color: black; }
+.t_value4  {font-family:  Arial; font-size: 11px; color: #000000; }
+.t_value5  {font-family:  Arial; font-size: 13px; color: black; font-weight: bold; }
+.t_value6   {font-family:  Arial; font-size: 13px; color: #666666; }
+
+.p_remark1  {font-family:  Arial; font-size: 12px; font-weight: normal; color: #666666; }
+.p_remark2  {font-family:  Arial; font-size: 10px; font-weight: normal; color: #000; }
+
+.pcb        {font-family:  Arial; font-size: 10px; font-weight: normal; color: #666666;  }
+
+.inp1  	{font-family :  Arial;	font-size : 10px;	}
+.inp2  	{font-family :  Arial;	font-size : 11px;	}
+.inp3  	{font-family :  Arial;	font-size : 12px;	text-align : center;}
+
+.inp	{
+			text-align : center;
+			font-size : x-small;
+		}
+.but1 	{
+		display : none;
+		color : Yellow; 
+		font-family : Arial;
+		font-weight : bold;
+		background-color : Teal;
+		border-style : outset;
+		border-color : black;
+		border-width : medium;
+		}
+
+input.button2 { background-color: #BED7E7; font-size: 11px; width:95px; height:20px; color: #000000; border-style:solid; border-color:#CCCCCC; border-width:1px; }
+		
+.like       {font-family:  Arial; font-size: 10px; font-weight: normal; color: black;}
+.input 		{font-family: Arial;}
+
+A:link 		{ color: #0066cc; text-decoration: none;}
+A:visited 	{ color: #0066cc; text-decoration: none;}
+A:active 	{ color: #0066cc; text-decoration: underline;}
+/*A:hover 	{ color: brown; text-decoration: none; background-color : #66ffff;}*/
+
+a:link 		{ color: #0066cc; text-decoration: none;}
+a:visited 	{ color: #0066cc; text-decoration: none;}
+a:active 	{ color: #0066cc; text-decoration: underline;}
+/* a:hover 	{ color: brown; text-decoration: none; background-color : #99FFFF;} */
+a:hover 	{ color: brown; text-decoration: none; text-decoration: underline;}
+
+.justify13 {
+	text-align: justify;
+	font-size: 13px;
+}
+
+.justify {
+	text-align: justify;
+}
+
+/**
+* Used in Catch-MSY page
+*
+*/
+#commonContainer {
+    margin: 0 auto;
+    width: 768px;
+}
+
+/**
+* USED when indenting table values
+*
+* See example on /Summary/FamilySummary.php?ID=412
+*/
+.secondLayer {
+	margin-left: 20px;
+}
+
+.thirdLayer {
+	margin-left: 40px;
+}
+
+.fourthLayer {
+	margin-left: 60px;
+}
+
+.tooltipsy
+{
+    padding: 10px;
+    max-width: 200px;
+    color: #303030;
+    background-color: #f5f5b5;
+    border: 1px solid #deca7e;
+}

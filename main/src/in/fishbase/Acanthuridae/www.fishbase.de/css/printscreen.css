@@ -1,0 +1,138 @@
+* {
+	font: 11px normal Arial, Verdana, Sans-serif;
+}
+
+.hidden, .navsheader, .single {
+	display: none;
+}
+
+.sfooter, .devlog {
+	display: none;
+}
+.sfooter_p {
+	border-top: 1px solid #000;
+	margin-top: 50px;
+}
+.onethird {
+	width: 33%;
+	float: left;
+	text-align: center;
+	padding-top: 4px;
+}
+.infonav {
+	display: none;
+	clear: both;
+}
+.subinfonav, .subinfonav_p {
+	clear: both;
+	overflow: auto;
+	margin-bottom: 20px;
+	padding: 2px 0;
+}
+.datalog {
+	overflow: auto;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	padding-bottom: 4px;
+}
+.source {
+	text-wrap: wrap;
+	font: normal 9px Arial, Verdana, Sans-serif;
+	margin: 0 0 20px 0;
+}
+.pheader, .pheader span {
+	margin: 20px auto;
+	text-align: center;
+	padding: 8px 0;
+	font: bold 18px Arial, Verdana, Sans-serif;
+}
+.genusHeader {
+	text-transform: capitalize;
+}
+
+.lalign {
+	padding-left: 4px;
+	text-align: left;
+}
+.calign {
+	text-align: center;
+}
+.ralign {
+	padding-right: 4px;
+	text-align: right;
+}
+
+/**/
+.caps {
+	text-transform: capitalize;
+}
+.label {
+	font: bold 12px Arial, Verdana, Sans-serif;
+}
+
+/* alternate rows */
+tr.odd {
+	border-bottom: 1px solid #000000;
+}
+.even {
+}
+
+/* tables */
+table {
+	clear: both;
+	border-collapse: collapse;
+	border: 1px solid #D0D0D0;
+}
+tr {
+	border: 1px solid #D0D0D0;
+}
+th {
+	border: 1px solid #D0D0D0;
+	font: bold 11px Arial, Verdana, Sans-serif;
+	background-color: #99CCCC;
+	padding: 2px;
+	vertical-align: top;
+}
+td {
+	border: 1px solid #D0D0D0;
+	vertical-align: top;
+	padding: 2px;
+	font-size: 12px;
+}
+
+
+table.basic {
+	min-width: 100%;
+}
+
+.clr {
+	overflow: auto;
+	clear: both;
+	background-color: #C3DFDB;
+}
+.clr_even {
+	overflow: auto;
+	clear: both;
+	background-color: #EFFFFD;
+}
+
+/* lists */
+ul#habitation {
+	list-style: none;
+	padding: 0 0 0 3px;
+}
+ul#habitation li.habitat {
+	font-weight: bold;
+}
+ul#habitation li.non_habitat {
+	color: #D0D0D0;
+}
+
+/* headers */
+h2 {
+	font: bold 13px Arial, Verdana, Sans-serif;
+	text-transform: capitalize;
+	margin-top: 30px;
+	width: 100%;
+	border-bottom: 1px solid #D0D0D0;
+}

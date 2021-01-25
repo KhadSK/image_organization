@@ -1,0 +1,296 @@
+	
+
+
+<html>
+<head>
+<title>Available Family for Acestrorhynchidae </title>
+<link rel="stylesheet" href="/fishbase.css" type="text/css">
+<link rel="stylesheet" href="/css/printscreen.css" type="text/css" media="print">
+<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen">
+<script src="/jquery/ImageAspectRatio.js"></script>	
+</head>
+
+<body>
+	<div class="navsheader" id="top">
+	    <div class="twofifth lalign">
+		    		</div>
+		<div class="twofifth">
+			
+		</div>
+	    <div class="onefifth ralign">
+			<a href="/search.php">FishBase</a>		</div>
+	</div>
+	
+	<!-- Body -->
+	<div class="pheader">
+		List of Pictures Available for Family <a href='/Summary/FamilySummary.php?ID='></a> <span class="genusHeader">Acestrorhynchidae</span><br />
+		(Smallscale pike characins)		
+	</div>
+	
+	<div class="infonav">
+		<div class="one1">
+		<a href="FamilyThumbnailsSummary.php?famcode=593">Show photos</a>	n = 26		</div>
+	</div>
+
+	<table class="basic" width="80%" align="center">
+		<tr>
+			<th class="label caps">Scientific Name</th>
+			<th class="label caps">English Name</th>
+			<th class="label caps">Picture</th>
+			<th class="label caps">Photographer</th>
+			<th class="label caps">Locality</th>
+		</tr>
+		
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=51076&picname=Acalt_u0.jpg&what=species"><i>Acestrorhynchus altus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=51076&picname=Acalt_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acalt_u0.jpg" title="tnn_Acalt_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acalt_u0.jpg" title="tnn_Acalt_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1102 ">Hippocampus-Bildarchiv</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=52499&picname=Acbri_u0.jpg&what=species"><i>Acestrorhynchus britskii</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=52499&picname=Acbri_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acbri_u0.jpg" title="tnn_Acbri_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acbri_u0.jpg" title="tnn_Acbri_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1950 ">Severi, W.</td>
+			<td>Sobradinho Reservoir, São Francisco river,</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=23498&picname=Acfal_u1.jpg&what=species"><i>Acestrorhynchus falcatus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=23498&picname=Acfal_u1.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acfal_u1.jpg" title="tnn_Acfal_u1.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acfal_u1.jpg" title="tnn_Acfal_u1.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=441 ">IBAMA</td>
+			<td>Santarém</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=23498&picname=Acfal_j0.jpg&what=species"><i>Acestrorhynchus falcatus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=23498&picname=Acfal_j0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acfal_j0.jpg" title="tnn_Acfal_j0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acfal_j0.jpg" title="tnn_Acfal_j0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=2236 ">Brosse, S.</td>
+			<td>Nouragues Nature Reserve</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=23498&picname=Acfal_u3.jpg&what=species"><i>Acestrorhynchus falcatus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=23498&picname=Acfal_u3.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acfal_u3.jpg" title="tnn_Acfal_u3.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acfal_u3.jpg" title="tnn_Acfal_u3.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1118 ">Holm, E.</td>
+			<td> Waini River</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=13123&picname=Acfal_u0.jpg&what=species"><i>Acestrorhynchus falcirostris</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=13123&picname=Acfal_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acfal_u0.jpg" title="tnn_Acfal_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acfal_u0.jpg" title="tnn_Acfal_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=441 ">IBAMA</td>
+			<td>Santarém</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=13123&picname=Acfal_u2.jpg&what=species"><i>Acestrorhynchus falcirostris</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=13123&picname=Acfal_u2.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acfal_u2.jpg" title="tnn_Acfal_u2.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acfal_u2.jpg" title="tnn_Acfal_u2.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1102 ">Hippocampus-Bildarchiv</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=51077&picname=Aclac_u1.jpg&what=species"><i>Acestrorhynchus lacustris</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=51077&picname=Aclac_u1.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Aclac_u1.jpg" title="tnn_Aclac_u1.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Aclac_u1.jpg" title="tnn_Aclac_u1.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=763 ">Sazima, I.</td>
+			<td>Tiete River, Buritama</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=12336&picname=Acmic_u0.jpg&what=species"><i>Acestrorhynchus microlepis</i></a></td>
+			
+			<td>Pike characin</td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=12336&picname=Acmic_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acmic_u0.jpg" title="tnn_Acmic_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acmic_u0.jpg" title="tnn_Acmic_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1118 ">Holm, E.</td>
+			<td>Essequibo River</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=51809&picname=Acmin_u0.jpg&what=species"><i>Acestrorhynchus minimus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=51809&picname=Acmin_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acmin_u0.jpg" title="tnn_Acmin_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acmin_u0.jpg" title="tnn_Acmin_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1102 ">Hippocampus-Bildarchiv</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=51809&picname=Acmin_u1.jpg&what=species"><i>Acestrorhynchus minimus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=51809&picname=Acmin_u1.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acmin_u1.jpg" title="tnn_Acmin_u1.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acmin_u1.jpg" title="tnn_Acmin_u1.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1102 ">Hippocampus-Bildarchiv</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=51815&picname=Acnas_u1.jpg&what=species"><i>Acestrorhynchus nasutus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=51815&picname=Acnas_u1.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acnas_u1.jpg" title="tnn_Acnas_u1.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acnas_u1.jpg" title="tnn_Acnas_u1.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1102 ">Hippocampus-Bildarchiv</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=52503&picname=Acpan_u0.jpg&what=species"><i>Acestrorhynchus pantaneiro</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=52503&picname=Acpan_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acpan_u0.jpg" title="tnn_Acpan_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acpan_u0.jpg" title="tnn_Acpan_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=763 ">Sazima, I.</td>
+			<td>Pocone</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=52503&picname=Acpan_u1.jpg&what=species"><i>Acestrorhynchus pantaneiro</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=52503&picname=Acpan_u1.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Acpan_u1.jpg" title="tnn_Acpan_u1.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Acpan_u1.jpg" title="tnn_Acpan_u1.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=2157 ">Pereira, R.C.</td>
+			<td>Rio Sucuri</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=54580&picname=Giala_u0.jpg&what=species"><i>Gilbertolus alatus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=54580&picname=Giala_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Giala_u0.jpg" title="tnn_Giala_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Giala_u0.jpg" title="tnn_Giala_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1985 ">Alvarez, F. / CIUA</td>
+			<td>Río Magdalena</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=48632&picname=Gimar_u0.jpg&what=species"><i>Gilbertolus maracaiboensis</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=48632&picname=Gimar_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Gimar_u0.jpg" title="tnn_Gimar_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Gimar_u0.jpg" title="tnn_Gimar_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=328 ">Galvis, G./Mojica, J.I./Camargo, M.</td>
+			<td>Catatumbo River</td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=26387&picname=Gnste_f0.jpg&what=species"><i>Gnathocharax steindachneri</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=26387&picname=Gnste_f0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Gnste_f0.jpg" title="tnn_Gnste_f0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Gnste_f0.jpg" title="tnn_Gnste_f0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=26387&picname=Gnste_u0.jpg&what=species"><i>Gnathocharax steindachneri</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=26387&picname=Gnste_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Gnste_u0.jpg" title="tnn_Gnste_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Gnste_u0.jpg" title="tnn_Gnste_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=26387&picname=Gnste_u1.jpg&what=species"><i>Gnathocharax steindachneri</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=26387&picname=Gnste_u1.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Gnste_u1.jpg" title="tnn_Gnste_u1.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Gnste_u1.jpg" title="tnn_Gnste_u1.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=57972&picname=Helep_u6.jpg&what=species"><i>Heterocharax leptogrammus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=57972&picname=Helep_u6.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Helep_u6.jpg" title="tnn_Helep_u6.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Helep_u6.jpg" title="tnn_Helep_u6.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=51942&picname=Hemac_f0.jpg&what=species"><i>Heterocharax macrolepis</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=51942&picname=Hemac_f0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Hemac_f0.jpg" title="tnn_Hemac_f0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Hemac_f0.jpg" title="tnn_Hemac_f0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=51942&picname=Hemac_m0.jpg&what=species"><i>Heterocharax macrolepis</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=51942&picname=Hemac_m0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Hemac_m0.jpg" title="tnn_Hemac_m0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Hemac_m0.jpg" title="tnn_Hemac_m0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=57973&picname=Hevir_m0.jpg&what=species"><i>Heterocharax virgulatus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=57973&picname=Hevir_m0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Hevir_m0.jpg" title="tnn_Hevir_m0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Hevir_m0.jpg" title="tnn_Hevir_m0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=57973&picname=Hevir_f0.jpg&what=species"><i>Heterocharax virgulatus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=57973&picname=Hevir_f0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Hevir_f0.jpg" title="tnn_Hevir_f0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Hevir_f0.jpg" title="tnn_Hevir_f0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=57973&picname=Hevir_f1.jpg&what=species"><i>Heterocharax virgulatus</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=57973&picname=Hevir_f1.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Hevir_f1.jpg" title="tnn_Hevir_f1.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Hevir_f1.jpg" title="tnn_Hevir_f1.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+		<tr>
+			<td><a href="../photos/PicturesSummary.php?id=51943&picname=Hogoe_u0.jpg&what=species"><i>Hoplocharax goethei</i></a></td>
+			
+			<td></td>
+			<td><center><a class="tooltip" href="/photos/PicturesSummary.php?id=51943&picname=Hogoe_u0.jpg&what=species"><img src="/images/tnn_files/tnn_Jpg/tnn_Hogoe_u0.jpg" title="tnn_Hogoe_u0.jpg"/><span><img onload="OnImageLoad(event);" width="320" src="/images/species/Hogoe_u0.jpg" title="tnn_Hogoe_u0.jpg"/></span></a></center></td>
+			<td><a href="/Collaborators/CollaboratorSummary.php?ID=1133 ">Hoffmann, P. and M. Hoffmann</td>
+			<td></td>
+		</tr>	
+		
+	</table>
+	
+	<div class="sfooter">
+		<div class="onethird lalign"><a href="/search.php">FishBase</a></div>
+		<div class="onethird calign caps"></div>
+		<div class="onethird ralign"><a href="#top">Back to top</a></div>
+	</div>
+
+	<!-- development log -->
+	<div class="devlog">
+		cfm script by <a href="/collaborators/CollaboratorSummary.php?id=405">eagbayani</a>, 01.10.99&nbsp;,&nbsp;
+		php script by <a href="/collaborators/CollaboratorSummary.php?id=2016">cmilitante</a>, 02.02.10&nbsp;,&nbsp;
+		last modified by <a href="/collaborators/CollaboratorSummary.php?id=2016">cmilitante</a>,  06/02/2012
+	</div>
+</body>
+</html>
+
+
