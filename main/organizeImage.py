@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import re
 import shutil
 import skimage
-from skimage import data, io
+#from skimage import data, io
 from matplotlib import pyplot
 
 
@@ -73,10 +73,10 @@ def main():
                                 # don't find tag
                                 continue   
                     else:
-                        #print('species directory not existe ', pathSubdir)
+                        #print('Species directory does not exist ', pathSubdir)
                         pass
         else: 
-            #print ('file does not existe or is not accessible ', pathDirIn)
+            #print ('File is either non-existent or inaccessible ', pathDirIn)
             pass
                                 
                                     
